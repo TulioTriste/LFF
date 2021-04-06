@@ -1,0 +1,4 @@
+name: LFF
+version: 1.0-SNAPSHOT
+main: me.tulio.lff.Main
+author: TulioTriste

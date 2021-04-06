@@ -1,0 +1,14 @@
+me\tulio\lff\LFF.class
+me\tulio\lff\util\command\BukkitCompleter.class
+me\tulio\lff\util\Cooldown.class
+me\tulio\lff\util\command\BaseCommand.class
+me\tulio\lff\LFFCommand.class
+me\tulio\lff\Main.class
+me\tulio\lff\util\command\Completer.class
+me\tulio\lff\util\command\CommandArgs.class
+me\tulio\lff\util\command\CommandFramework.class
+me\tulio\lff\util\CC.class
+me\tulio\lff\util\command\BukkitCommand.class
+me\tulio\lff\util\TimeUtil.class
+me\tulio\lff\util\FileConfig.class
+me\tulio\lff\util\command\Command.class

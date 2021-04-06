@@ -1,0 +1,10 @@
+TIME: 30000 #in milliseconds
+LFF:
+  - "{bars}"
+  - "&eLFF &f{player}"
+  - "{bars}"
+SENT:
+  - "&aTu mensaje de LFF ha sido enviado yá!"
+  - "&aTienes que esperar {time}"
+WAITING:
+  - "&cTodavia no puedes ejecutar este comando ({time})"
